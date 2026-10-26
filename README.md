@@ -38,8 +38,6 @@ BackendFinderOn/
 └── static/
 ```
 
-*Note: Adjust the folder structure above to match the actual files in your repository.*
-
 ## Installation and Setup
 
 ### 1. Clone the repository
